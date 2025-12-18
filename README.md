@@ -15,7 +15,7 @@ Understanding data structures & algorithms, improving clean code practices, and 
 
 🌱 I’m currently learning
 
-DSA, web development, and exploring cloud basics (Azure / AWS).
+DSA and web development
 
 💬 Ask me about
 
