@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**sahilsahu4102/sahilsahu4102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there!
 
-Here are some ideas to get you started:
+🔭 I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Improving my coding skills through small projects in Java, Python, and web development.
+
+👯 I’m looking to collaborate on
+
+Beginner-friendly open-source projects, coding challenges, and any project where I can learn something new.
+
+🤝 I’m looking for help with
+
+Understanding data structures & algorithms, improving clean code practices, and building real-world project structure.
+
+🌱 I’m currently learning
+
+DSA, web development, and exploring cloud basics (Azure / AWS).
+
+💬 Ask me about
+
+Java basics, C/C++, beginner-friendly coding doubts, and anything related to learning programming.
