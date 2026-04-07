@@ -1,22 +1,18 @@
+# 💫 About Me:
+🔭 I’m currently working on  <br>- AI-powered systems like **EcoTrace (Supply Chain Risk Engine)**  <br>- **PayFlow** – a multi-gateway payment routing engine  <br>- LLM-based pipelines with RAG + embeddings  <br><br>👯 I’m looking to collaborate on  <br>- AI/ML + LLM-based real-world products  <br>- Backend-heavy systems (FastAPI, Node.js)  <br>- Startup or hackathon-level impactful builds  <br><br>🤝 I’m looking for help with  <br>- Scaling distributed systems  <br>- Advanced system design (production-grade)  <br>- Improving low-latency architectures  <br><br>🌱 I’m currently learning  <br>- Advanced **System Design & Distributed Systems**  <br>- Optimization in **LLM pipelines (RAG, Agents)**  <br>- High-performance backend engineering  <br><br>💬 Ask me about  <br>- FastAPI, Node.js, backend architecture  <br>- LLMs, RAG pipelines, prompt engineering  <br>- Building real-world AI products  <br><br>⚡ Fun fact  <br>- I optimize systems for milliseconds… and still feel it's slow 😄  
 
-👋 Hi there!
 
-🔭 I’m currently working on
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kumar-sahu-62a4b0332) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahil.sahu4102@gmail.com) 
 
-Improving my coding skills through small projects in Java, Python, and web development.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sahilsahu4102&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sahilsahu4102&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsahu4102&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-👯 I’m looking to collaborate on
+---
+[![](https://visitcount.itsvg.in/api?id=sahilsahu4102&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Beginner-friendly open-source projects, coding challenges, and any project where I can learn something new.
-
-🤝 I’m looking for help with
-
-Understanding data structures & algorithms, improving clean code practices, and building real-world project structure.
-
-🌱 I’m currently learning
-
-DSA and web development
-
-💬 Ask me about
-
-Java basics, C/C++, beginner-friendly coding doubts, and anything related to learning programming.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
